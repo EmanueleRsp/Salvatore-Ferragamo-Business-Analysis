@@ -16,9 +16,9 @@ The project was a team work, developed with **@DafneIennaro** and **@KaranGurung
 
 > _This project was developed during "Economics and Business Organization" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
 
-The **main documentation** of the project is available [here](/docs/Documentazione.pdf): it contains a strongly detailed description of the complany, including the **organizational structure**, the **financial and economic report**, the **business model canvas** and so on.
+The **main documentation** of the project is available [here](/docs/documentazione.pdf): it contains a strongly detailed description of the complany, including the **organizational structure**, the **financial and economic report**, the **business model canvas** and so on.
 
-A shorter **presentation** of the project is also available [here](/docs/Presentazione.pdf): it contains a brief description of the company and the main results of the analysis.
+A shorter **presentation** of the project is also available [here](/docs/presentazione.pdf): it contains a brief description of the company and the main results of the analysis.
 
 According to the project requirements, we focused also on the **documentation design**: you can find the **palette** [here](/docs/palette.pdf).
 
