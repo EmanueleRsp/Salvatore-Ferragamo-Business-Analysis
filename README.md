@@ -9,6 +9,7 @@ The project was a team work, developed with **@DafneIennaro** and **@KaranGurung
   - [Project structure](#project-structure)
   - [Final evaluation](#final-evaluation)
 
+For any ussue or question, please don't hesitate to contact me!
 
 ## Documentation
 
