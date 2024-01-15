@@ -10,8 +10,6 @@ The project was a team work, developed with **@DafneIennaro** and **@KaranGurung
   - [Final evaluation](#final-evaluation)
 
 
----
-
 ## Documentation
 
 > _This project was developed during "Economics and Business Organization" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
@@ -24,13 +22,15 @@ According to the project requirements, we focused also on the **documentation de
 
 If you want to check the **tasks** required for the project, you can find them in the pdf file [here](/docs/specifiche.pdf).
 
----
 
 ## Project structure
 
 In **`docs/`** folder you can find the documentation of the project, while in **`sources/`** folder you can find the resouces used for the project.
 
----
+
+## Download
+
+You can download the latest zip file released from [here](https://github.com/EmanueleRsp/Salvatore-Ferragamo-Business-Analysis/releases). 
 
 ## Final evaluation
 
