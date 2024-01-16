@@ -1,5 +1,7 @@
 # Salvatore Ferragamo: Business Analysis and Study
 
+[![GitHub license](https://img.shields.io/github/license/EmanueleRsp/Salvatore-Ferragamo-Business-Analysis?style=flat)](https://github.com/EmanueleRsp/Salvatore-Ferragamo-Business-Analysis/blob/main/LICENSE) 
+
 University project, which goal was the **business analysis** of an assigned company (**Salvatore Ferragamo**), focusing on **business model canvas**, governance, costs, revenues and budget analysis until 2021 (year of the project). 
 
 The project was a team work, developed with **@DafneIennaro** and **@KaranGurung**.
